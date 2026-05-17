@@ -74,6 +74,11 @@ function Contact() {
         </button>
 
       </form>
+
+
+      <footer>
+      <h3 className="text-center mt-7">&copy;{new Date().getFullYear()} Creator ~/naim</h3>
+      </footer>
     </div>
   );
 }
