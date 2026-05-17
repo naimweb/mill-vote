@@ -50,7 +50,7 @@ function Contact() {
           <input
             name="user_email"
             type="email"
-            placeholder="Enter your email"
+            placeholder="any email"
             required
             className="border w-full px-4 py-2 rounded-lg outline-none"
           />
